@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtTestApp</string>
+    <string name="name">Name</string>
+    <string name="save_name">Save Name</string>
+    <string name="age">Age</string>
+    <string name="save_age">Save age</string>
+    <string name="image">Image</string>
+    <string name="next">Next</string>
+</resources>
